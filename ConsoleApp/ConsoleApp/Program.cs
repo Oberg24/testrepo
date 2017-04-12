@@ -10,6 +10,11 @@ namespace ConsoleApp {
 			System.Diagnostics.Debug.WriteLine("test");
 			System.Diagnostics.Debug.WriteLine("test git");
 			System.Diagnostics.Debug.WriteLine("change more");
+			PrintMoreStuff();
+		}
+
+		private static void PrintMoreStuff() {
+			System.Diagnostics.Debug.WriteLine("Made in Johan Branch");
 		}
 	}
 }
