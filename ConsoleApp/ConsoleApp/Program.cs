@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 namespace ConsoleApp {
 	class Program {
 		static void Main(string[] args) {
-
 			System.Diagnostics.Debug.WriteLine("test");
-			System.Diagnostics.Debug.WriteLine("test git");
-
+			System.Diagnostics.Debug.WriteLine("test git");			
 		}
 	}
 }
