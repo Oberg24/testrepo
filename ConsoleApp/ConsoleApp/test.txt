@@ -1,3 +1,4 @@
 Test test 
-en �ndring till
+en change till
 change again.
+change 2
